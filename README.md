@@ -3,5 +3,5 @@ Use this skill when the user asks for a Mermaid diagram or when your response in
 
 ## usage
 1. Navigate to the skills directory
-2. `git clone github.com:strconv/mermaid-checker.git && cd mermaid-checker && npm install`
+2. `git clone github.com:strconv/mermaid-checker.git && cd mermaid-checker/scripts && npm install`
 3. Ask the LLM directly: "Draw a diagram showing the TCP connection establishment process"
